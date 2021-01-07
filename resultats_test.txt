@@ -1,0 +1,41 @@
+On branch test
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	resultats_test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+commit b440ce36867ea4bbfbe8fd8d8d1dabde0d343a06
+Author: Rouached <ines.rouached@edu.univ-fcomte.fr>
+Date:   Thu Jan 7 17:13:34 2021 +0100
+
+    fiche03.txt
+
+commit 023a7e9bca1d540f67c06cb795ce557db1a1c928
+Author: Rouached <ines.rouached@edu.univ-fcomte.fr>
+Date:   Thu Jan 7 17:11:24 2021 +0100
+
+    fiche02.txt
+
+commit 5809ea52569709f5d31e0efd1af321333603acfb
+Author: Rouached <ines.rouached@edu.univ-fcomte.fr>
+Date:   Thu Jan 7 16:56:09 2021 +0100
+
+    Fiche01.txt
+
+commit 32665a43e5a7eae468a18f51ad8f4df640ada5b3
+Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+Date:   Thu Jan 7 14:52:19 2021 +0100
+
+    Ajout des infos sur push
+
+commit 3e83647b316220d13dd995eadf6b92595e00e81e
+Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+Date:   Thu Jan 7 14:40:38 2021 +0100
+
+    Ajout du cours linux
+
+commit 290cbdc59b2f4d1fee46059648bba677665a8ab8
+Author: Gerald Geniaut <gerald.geniaut@campus-condorcet.fr>
+Date:   Thu Jan 7 14:08:21 2021 +0100
+
+    creation des fichiers
